@@ -1,0 +1,5 @@
+Z:\new_VM_Shared\Stuff\EulerProblems\Problem16\Problem16\bin\Debug\Problem16.exe
+Z:\new_VM_Shared\Stuff\EulerProblems\Problem16\Problem16\bin\Debug\Problem16.pdb
+Z:\new_VM_Shared\Stuff\EulerProblems\Problem16\Problem16\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\new_VM_Shared\Stuff\EulerProblems\Problem16\Problem16\obj\x86\Debug\Problem16.exe
+Z:\new_VM_Shared\Stuff\EulerProblems\Problem16\Problem16\obj\x86\Debug\Problem16.pdb

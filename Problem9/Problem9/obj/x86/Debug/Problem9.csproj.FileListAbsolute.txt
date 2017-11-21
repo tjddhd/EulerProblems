@@ -1,0 +1,5 @@
+C:\Documents and Settings\Administrator\Desktop\EulerProblems\Problem9\Problem9\bin\Debug\Problem9.exe
+C:\Documents and Settings\Administrator\Desktop\EulerProblems\Problem9\Problem9\bin\Debug\Problem9.pdb
+C:\Documents and Settings\Administrator\Desktop\EulerProblems\Problem9\Problem9\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\EulerProblems\Problem9\Problem9\obj\x86\Debug\Problem9.exe
+C:\Documents and Settings\Administrator\Desktop\EulerProblems\Problem9\Problem9\obj\x86\Debug\Problem9.pdb

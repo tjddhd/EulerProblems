@@ -1,0 +1,7 @@
+Z:\new_VM_Shared\Stuff\EulerProblems\Problem17\Problem17\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\new_VM_Shared\Stuff\EulerProblems\Problem17\Problem17\bin\Debug\Problem17.exe
+Z:\new_VM_Shared\Stuff\EulerProblems\Problem17\Problem17\bin\Debug\Problem17.pdb
+Z:\new_VM_Shared\Stuff\EulerProblems\Problem17\Problem17\obj\x86\Debug\Problem17.exe
+Z:\new_VM_Shared\Stuff\EulerProblems\Problem17\Problem17\obj\x86\Debug\Problem17.pdb
+Z:\new_VM_Shared\Stuff\EulerProblems\Problem 19\Problem17\obj\x86\Debug\Problem17.exe
+Z:\new_VM_Shared\Stuff\EulerProblems\Problem 19\Problem17\obj\x86\Debug\Problem17.pdb

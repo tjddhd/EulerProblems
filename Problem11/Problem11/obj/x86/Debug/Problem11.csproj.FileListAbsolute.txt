@@ -1,0 +1,7 @@
+C:\Documents and Settings\Administrator\Desktop\EulerProblems\Problem11\Problem11\bin\Debug\Problem11.exe
+C:\Documents and Settings\Administrator\Desktop\EulerProblems\Problem11\Problem11\bin\Debug\Problem11.pdb
+C:\Documents and Settings\Administrator\Desktop\EulerProblems\Problem11\Problem11\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\EulerProblems\Problem11\Problem11\obj\x86\Debug\Problem11.exe
+C:\Documents and Settings\Administrator\Desktop\EulerProblems\Problem11\Problem11\obj\x86\Debug\Problem11.pdb
+Z:\new_VM_Shared\Stuff\EulerProblems\Problem11\Problem11\obj\x86\Debug\Problem11.exe
+Z:\new_VM_Shared\Stuff\EulerProblems\Problem11\Problem11\obj\x86\Debug\Problem11.pdb
