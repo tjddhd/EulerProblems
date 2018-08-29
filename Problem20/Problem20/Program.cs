@@ -30,7 +30,7 @@ namespace Problem20
             if(double.TryParse(Console.ReadLine(), out factorialNum))
             {
                 Console.WriteLine($"Computing the Factorial of input '{factorialNum}'...\n");
-                factorialResult = ComputeFactorial(factorialNum);
+                factorialResult = ComputeFactorial(Math.Ceiling(factorialNum));
                 Console.WriteLine($"The result was calculated to be: {factorialResult}\n\n");
 
                 Console.WriteLine($"Computing the Summaiton of the Factorial Digits for {factorialResult}...\n");
