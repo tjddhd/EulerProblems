@@ -1,0 +1,6 @@
+Z:\Coding\Projects\EulerProblems\Problem20\Problem20\bin\Debug\Problem20.exe.config
+Z:\Coding\Projects\EulerProblems\Problem20\Problem20\bin\Debug\Problem20.exe
+Z:\Coding\Projects\EulerProblems\Problem20\Problem20\bin\Debug\Problem20.pdb
+Z:\Coding\Projects\EulerProblems\Problem20\Problem20\obj\Debug\Problem20.exe
+Z:\Coding\Projects\EulerProblems\Problem20\Problem20\obj\Debug\Problem20.pdb
+Z:\Coding\Projects\EulerProblems\Problem20\Problem20\obj\Debug\Problem20.csprojResolveAssemblyReference.cache
